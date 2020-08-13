@@ -43,7 +43,7 @@ namespace SuperBit {
     let yahStrip: neopixel.Strip;
 
    
-    export enum enMusic {
+    export enum enMusic 
 
         dadadum = 0,
         entertainer,
